@@ -3,6 +3,6 @@ A simple Web based application that stores the information in JsonPowerDb which 
 ## Benefits of using JsonPowerDb
   Minimum Development Cost\
   Maximum Data processing performance\ 
-  Simplest way to retrieve data 
-  Human Readable
-  Minimum Time to market as it's buit on one of the fastest engine
+  Simplest way to retrieve data\ 
+  Human Readable\
+  Minimum Time to market as it's buit on one of the fastest engine\
